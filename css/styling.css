@@ -1,0 +1,40 @@
+body{
+  padding:130px 370px;
+}
+
+form{
+  box-sizing: content-box;
+  width: 400px;
+  height: 200px;
+  padding: 30px;
+  border-radius: 10px;
+  border: 2px solid	#DCDCDC;
+}
+
+.form-group{
+}
+
+.form-check{
+  position:relative;
+  left:120px;
+  padding-bottom: 20px;
+}
+
+button{
+  position:relative;
+  left:100px;
+  width:200px;
+
+}
+footer {
+    position: fixed;
+    height: 50px;
+    left:500px;
+    bottom: 0;
+    width: 100%;
+    justify-content: center;
+}
+#results{
+  display:none;
+  padding-top: 20px;
+}
